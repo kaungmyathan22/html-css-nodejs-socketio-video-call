@@ -2,5 +2,24 @@
   "dependencies": {
     "express": "^4.18.2",
     "socket.io": "^4.7.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "html-css-nodejs-socketio-video-call",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaungmyathan22/html-css-nodejs-socketio-video-call.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaungmyathan22/html-css-nodejs-socketio-video-call/issues"
+  },
+  "homepage": "https://github.com/kaungmyathan22/html-css-nodejs-socketio-video-call#readme",
+  "description": "Simple webrtc case study project written in html,css,nodejs,webrtc and socket.io"
 }

@@ -2,7 +2,7 @@
 #videoal div.video {
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
     width: 500px;
     height: 400px;
     margin: 0 10px 10px 0;
